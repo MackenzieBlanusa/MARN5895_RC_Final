@@ -6,7 +6,6 @@ dependencies:
 - netcdf4>=1.5
 - pandas>=1.0.1
 - scipy==1.4.1
-- tgdm==4.46.0
 - watermark==2.0.2
 - python-wget==3.2
 - shapely
