@@ -1,0 +1,23 @@
+name: marn5895
+channels:
+ - conda-forge
+dependencies:
+ - pip
+ - numpy
+ - scipy
+ - pandas
+ - xarray
+ - netcdf4
+ - dask
+ - jupyterlab
+ - matplotlib
+ - cartopy
+ - cmocean
+ - proplot
+ - gsw
+ - zarr
+ - xgcm
+ - numba
+ - scikit-learn 
+ - pip:
+   - pytest
