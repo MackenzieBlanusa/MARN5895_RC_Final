@@ -12,3 +12,4 @@ dependencies:
 - Cartopy>=0.18.0
 - dask
 - cmocean
+- dask-gateway
